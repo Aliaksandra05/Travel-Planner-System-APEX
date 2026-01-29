@@ -1,3 +1,6 @@
+<img width="1912" height="818" alt="APEX" src="https://github.com/user-attachments/assets/674dc1cc-f882-4785-8e6f-9264b860555c" />
+
+
 # Travel Planner System (Oracle APEX)
 
 A comprehensive travel management system built with Oracle APEX 24.2. This application allows users to manage travel catalogs, including hotels, restaurants, attractions, and customer bookings.
