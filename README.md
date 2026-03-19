@@ -1,11 +1,13 @@
-<img width="1912" height="818" alt="APEX" src="https://github.com/user-attachments/assets/674dc1cc-f882-4785-8e6f-9264b860555c" />
-
-![diagram_apex](https://github.com/user-attachments/assets/90c46ce6-fc7f-4a1c-aff9-ab2e403c3a89)
-
-
 # <b>Travel Planner System (Oracle APEX)</b>
-
 A comprehensive travel management system built with Oracle APEX 24.2. This application allows users to manage travel catalogs, including hotels, restaurants, attractions, and customer bookings.
+
+## <b>Features</b>
+- Dynamic Dashboards: Real-time stats on trips, customers, and cities.
+- Catalog Management: Detailed forms for Restaurants, Hotels, and Attractions with complex database relationships.
+- Data Integrity: Custom error handling and validations for business logic.
+- User-Friendly Interface: Intuitive side navigation and responsive design.
+  
+<img width="1912" height="818" alt="APEX" src="https://github.com/user-attachments/assets/674dc1cc-f882-4785-8e6f-9264b860555c" />
 
 ## <b>Business Logic & Database Implementation</b>
 
@@ -16,11 +18,9 @@ This system is built on a robust relational database foundation, leveraging **PL
 * **Data Integrity:** Custom **Database Triggers** and **Validations** ensure that booking dates do not overlap and that all mandatory business fields are populated before processing.
 * **Performance Optimization:** Optimized data retrieval for Interactive Reports using indexed columns and efficient Join operations.
 
-## <b>Features</b>
-- Dynamic Dashboards: Real-time stats on trips, customers, and cities.
-- Catalog Management: Detailed forms for Restaurants, Hotels, and Attractions with complex database relationships.
-- Data Integrity: Custom error handling and validations for business logic.
-- User-Friendly Interface: Intuitive side navigation and responsive design.
+
+![diagram_apex](https://github.com/user-attachments/assets/90c46ce6-fc7f-4a1c-aff9-ab2e403c3a89)
+
 
 ## <b>Tech Stack</b>
 - Platform: Oracle APEX
